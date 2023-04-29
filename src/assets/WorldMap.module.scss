@@ -1,0 +1,10 @@
+@import '../styles/main.scss';
+
+.world-map{
+    width: calc(100% - 300px);
+    height: calc(100% - 100px);
+    position: absolute !important;
+    top: 50%;
+    left: -101px;
+    @include transform(translateY(-50%));
+}

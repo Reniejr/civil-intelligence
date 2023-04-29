@@ -1,0 +1,37 @@
+[{
+        "alliance": "NATO",
+        "countries": ["USA", "CAN", "GBR", "FRA", "DEU", "ITA", "ESP", "TUR", "POL", "NLD"]
+    },
+    {
+        "alliance": "EU",
+        "countries": ["BEL", "BGR", "CZE", "DNK", "EST", "FIN", "FRA", "DEU", "GRC", "HUN", "IRL", "ITA", "LVA", "LTU", "LUX", "MLT", "NLD", "AUT", "POL", "PRT", "ROU", "SVK", "SVN", "ESP"]
+    },
+    {
+        "alliance": "SCO",
+        "countries": ["ESH", "DZA", "AGO", "BWA", "BFA", "BDI", "CIV", "CMR", "CAF", "TCD", "COM", "COD", "COG", "DJI", "EGY", "GNQ", "ERI", "ETH", "GAB", "GMB", "GHA", "GIN", "GNB", "KEN", "LSO", "LBR", "LBY", "MDG", "MWI", "MLI", "MAR", "MUS", "MRT", "MOZ", "NAM", "NER", "NGA", "REU", "RWA", "STP", "SEN", "SYC", "SLE", "SOM", "ZAF", "SSD", "SD"]
+    },
+    {
+        "alliance": "AU",
+        "countries": ["BRN", "KHM", "IDN", "LAO", "MYS", "MMR", "PHL", "SGP", "THA", "VNM"]
+    },
+    {
+        "alliance": "ASEAN",
+        "countries": ["BRN", "KHM", "IDN", "LAO", "MYS", "MMR", "PHL", "SGP", "THA", "VNM"]
+    },
+    {
+        "alliance": "G7",
+        "countries": ["USA", "CAN", "GBR", "FRA", "DEU", "ITA", "ESP", "TUR", "POL", "NLD"]
+    },
+    {
+        "alliance": "G20",
+        "countries": ["ARG", "AUS", "BRA", "CAN", "CHN", "DEU", "FRA", "GBR", "IND", "IDN", "ITA", "JPN", "MEX", "RUS", "SAU", "ZAF", "TUR", "USA", "EU"]
+    },
+    {
+        "alliance": "BRICS",
+        "countries": ["BRA", "RUS", "IND", "CHN", "ZAF"]
+    },
+    {
+        "alliance": "OPEC",
+        "countries": ["ALG", "ANG", "ARG", "BOL", "ECU", "EQG", "IRN", "IRA", "KWT", "LIB", "LBY", "MAR", "NGA", "QAT", "SAU", "VEN"]
+    }
+]
